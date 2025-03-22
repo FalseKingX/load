@@ -1,1 +1,4 @@
-
+{
+        GAMEID: TPTARGETID,
+        GAMEID2: TPTARGETID2
+    }
